@@ -1,2 +1,2 @@
-# MA4270:Data Modeling and Computation
+# MA4270 : Data Modeling and Computation
 
