@@ -1,1 +1,1 @@
-Each row represents a sample. The last column contains the labels.
+Answer for Q1.C can be found in Lec2.a, Section 2 (additional materials). 
